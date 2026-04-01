@@ -16,7 +16,7 @@ The project demonstrates skills in:
 
 ## Dashboard Preview
 
-<img width="1825" height="697" alt="Screenshot (468)" src="https://github.com/user-attachments/assets/8898346f-60c4-494f-8dae-d42adc2e51fe" />
+<img width="1825" height="697" alt="Screenshot (468)" src="Screenshot (468).png" />
 
 ## Features
 
